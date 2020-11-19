@@ -15,7 +15,7 @@
     - 전란기능, 온도및 습도 감지, 온도조절, 일별로 전란주기 재설정, 팬 삽입?
 
 
-![부화조건]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e70400ec-9d29-4131-ad0e-531d47aa1521/hatching_schedule.jpg)
+![부화조건](./img/hatching_schedule.jpg)
 
 ## 병아리 부화 시 필요한 조건
 
@@ -43,7 +43,8 @@
 - 보온재
 
 
-![회로](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4fe71f0-15c4-4437-b64a-e774149c2e39/hatcher_01_bb.jpg)
+
+![회로](./img/hatcher_02_bb.jpg)
 
 위와 같이 회로를 구성해준다. 
 
@@ -102,6 +103,12 @@ void loop () {
 ```
 
 
+![전구확인](img\전구_확인.jpg)
+
+![전구_배터리](img\hatcher_battery.jpg)
+
+![1차테스트](img\hatcher_battery01.jpg)
+   
 그냥 종이상자만으로는 31~32도 정도가 거의 마지노선인 듯 하다.
 
 
